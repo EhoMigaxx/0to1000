@@ -39,3 +39,5 @@ function blink(){
 goBtn.addEventListener("click", sendNumber)
 goBtn.addEventListener("click", blink)
 
+
+
