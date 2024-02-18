@@ -12,6 +12,8 @@ The game will give you some hints, that says if the number is higher or lower th
 
 To play again or regenerate the number, press the button "Play again"
 
+On the new version, now you can choose the dificulty, varying between 10 and 1,000,000
+
 ## Installing or accessing the game
 
 To have access to the game, click on the link in this repository page or download the files and open `index.html` on your browser
