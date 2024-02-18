@@ -10,8 +10,6 @@ To play 0 to 1000, you only need to put a number in the text field and press the
 
 The game will give you some hints, that says if the number is higher or lower than yours
 
-To play again or regenerate the number, press the button "Play again"
-
 On the new version, now you can choose the dificulty, varying between 10 and 1,000,000
 
 ## Installing or accessing the game
